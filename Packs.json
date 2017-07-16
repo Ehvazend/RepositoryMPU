@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Interrupt of Fall",
+    "version": "1.12",
+    "hash": "974473fb8dec27849a93eba64d2853eb",
+    "modules": {
+      "core": true,
+      "improvedGraphics": true,
+      "improvedGraphicsPlus": false
+    }
+  },
+  {
+    "name": "Test pack",
+    "version": "1.12.2",
+    "hash": "974473fb8dec27849a93eba64d2853eb",
+    "modules": {
+      "core": false,
+      "improvedGraphics": false,
+      "improvedGraphicsPlus": false
+    }
+  }
+]
