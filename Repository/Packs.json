@@ -3,20 +3,20 @@
     "name": "Interrupt of Fall",
     "hash": "Interrupt_of_Fall",
     "version": "1.12",
-    "modules": {
-      "core": true,
-      "improvedGraphics": true,
-      "improvedGraphicsPlus": false
-    }
+    "modules": [
+      { "core": true, "hash": "Core.json" },
+      { "improvedGraphics": true, "hash": "ImprovedGraphics.json" },
+      { "improvedGraphicsPlus": false }
+    ]
   },
   {
     "name": "Test pack",
     "hash": "974473fb8dec27849a93eba64d2853eb",
     "version": "1.12.2",
-    "modules": {
-      "core": false,
-      "improvedGraphics": false,
-      "improvedGraphicsPlus": false
-    }
+    "modules": [
+      { "core": false },
+      { "improvedGraphics": false },
+      { "improvedGraphicsPlus": false }
+    ]
   }
 ]
