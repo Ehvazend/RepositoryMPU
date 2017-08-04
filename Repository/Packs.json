@@ -1,8 +1,9 @@
 [
   {
     "name": "Interrupt of Fall",
-    "hash": "Interrupt_of_Fall",
+    "hashName": "Interrupt_of_Fall",
     "version": "1.12",
+    "hashVersion": "1738749986%3A628",
     "modules": [
       { "core": true, "hash": "Core.json" },
       { "improvedGraphics": true, "hash": "ImprovedGraphics.json" },
@@ -11,8 +12,9 @@
   },
   {
     "name": "Test pack",
-    "hash": "974473fb8dec27849a93eba64d2853eb",
+    "hashName": "974473fb8dec27849a93eba64d2853eb",
     "version": "1.12.2",
+    "hashVersion": "1738749986%3A628",
     "modules": [
       { "core": false },
       { "improvedGraphics": false },
