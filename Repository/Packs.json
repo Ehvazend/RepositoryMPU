@@ -6,18 +6,7 @@
     "hashVersion": "1738749986%3A628",
     "modules": [
       { "core": true, "hash": "Core.json" },
-      { "improvedGraphics": true, "hash": "ImprovedGraphics.json" },
-      { "improvedGraphicsPlus": false }
-    ]
-  },
-  {
-    "name": "Test pack",
-    "hashName": "974473fb8dec27849a93eba64d2853eb",
-    "version": "1.12.2",
-    "hashVersion": "1738749986%3A628",
-    "modules": [
-      { "core": false },
-      { "improvedGraphics": false },
+      { "improvedGraphics": false, "hash": "ImprovedGraphics.json" },
       { "improvedGraphicsPlus": false }
     ]
   }
